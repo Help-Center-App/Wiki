@@ -1,1 +1,1 @@
-[HelpCenterApp](https://www.helpcenterapp.com/)
+https://www.helpcenterapp.com
